@@ -1,0 +1,6 @@
+C:\Users\JDom\Documents\Visual Studio 2013\Projects\MegaCasino\MegaCasino\bin\MegaCasino.dll.config
+C:\Users\JDom\Documents\Visual Studio 2013\Projects\MegaCasino\MegaCasino\bin\MegaCasino.dll
+C:\Users\JDom\Documents\Visual Studio 2013\Projects\MegaCasino\MegaCasino\bin\MegaCasino.pdb
+C:\Users\JDom\Documents\Visual Studio 2013\Projects\MegaCasino\MegaCasino\obj\Debug\MegaCasino.csprojResolveAssemblyReference.cache
+C:\Users\JDom\Documents\Visual Studio 2013\Projects\MegaCasino\MegaCasino\obj\Debug\MegaCasino.dll
+C:\Users\JDom\Documents\Visual Studio 2013\Projects\MegaCasino\MegaCasino\obj\Debug\MegaCasino.pdb
